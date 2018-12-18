@@ -1,6 +1,6 @@
 # 遗传算法
 
-salesman.py为SA用于解决旅行商问题的一个demo。
+salesman.py为GA用于解决旅行商问题的一个demo。
 
 参考文献：
 
